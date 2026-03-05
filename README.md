@@ -117,7 +117,7 @@ Este repositório inclui um **Dev Container** para facilitar a criação de um a
 ➡️ As dependências serão instaladas automaticamente.
 
 
-#### Opção B - via browser
+#### Opção C - via browser
 Você também pode abrir o container via github codespace
 
 1. Clique em **<> Code**
@@ -164,7 +164,7 @@ Implemente no arquivo `train_model.py` um código que realize:
   (utilizando camadas `Conv2D` e `MaxPooling`)
 - Treinamento do modelo
 - Exibição da **acurácia final** no terminal
-- Salvamento do modelo treinado no formato **Keras** (`.h5` ou `.keras`)
+- Salvamento do modelo treinado no formato **Keras** (`.h5`)
 
 (*O modelo salvo será utilizado na etapa de otimização.*)
 
